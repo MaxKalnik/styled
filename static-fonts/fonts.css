@@ -7,5 +7,5 @@
 @font-face {
     font-family: "Karbon";
     font-weight: 500;
-    src: url("KarbonWeb-Medium.woff2") format("woff2"), url("KarbonWeb-Medium.woff") format("woff"), url("KarbonWeb-Medium.ttf") format("truetype"), url("KarbonWeb-Medium.svg#Karbon") format("svg")
+    src: url("KarbonWeb-Medium.eot?") format("eot"), url("KarbonWeb-Medium.woff2") format("woff2"), url("KarbonWeb-Medium.woff") format("woff"), url("KarbonWeb-Medium.ttf") format("truetype"), url("KarbonWeb-Medium.svg#Karbon") format("svg")
 }
