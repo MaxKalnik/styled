@@ -1,23 +1,11 @@
 @font-face {
     font-family: "Karbon";
-    font-weight: 300;
-    src: url("../assets/fonts/KarbonWeb-Light.woff2") format("woff2"), url("../assets/fonts/KarbonWeb-Light.woff") format("woff"), url("../assets/fonts/KarbonWeb-Light.ttf") format("truetype"), url("../assets/fonts/KarbonWeb-Light.svg#Karbon") format("svg")
-}
-
-@font-face {
-    font-family: "Karbon";
     font-weight: 400;
-    src: url("../assets/fonts/KarbonWeb-Regular.woff2") format("woff2"), url("../assets/fonts/KarbonWeb-Regular.woff") format("woff"), url("../assets/fonts/KarbonWeb-Regular.ttf") format("truetype"), url("../assets/fonts/KarbonWeb-Regular.svg#Karbon") format("svg")
+    src: url("../assets/fonts/KarbonWeb-Regular.eot?") format("eot"), url("../assets/fonts/KarbonWeb-Regular.woff2") format("woff2"), url("../assets/fonts/KarbonWeb-Regular.woff") format("woff"), url("../assets/fonts/KarbonWeb-Regular.ttf") format("truetype"), url("../assets/fonts/KarbonWeb-Regular.svg#Karbon") format("svg")
 }
 
 @font-face {
     font-family: "Karbon";
     font-weight: 500;
-    src: url("../assets/fonts/KarbonWeb-Medium.woff2") format("woff2"), url("../assets/fonts/KarbonWeb-Medium.woff") format("woff"), url("../assets/fonts/KarbonWeb-Medium.ttf") format("truetype"), url("../assets/fonts/KarbonWeb-Medium.svg#Karbon") format("svg")
-}
-
-@font-face {
-    font-family: "Karbon";
-    font-weight: 600;
-    src: url("../assets/fonts/KarbonWeb-Semibold.woff2") format("woff2"), url("../assets/fonts/KarbonWeb-Semibold.woff") format("woff"), url("../assets/fonts/KarbonWeb-Semibold.ttf") format("truetype"), url("../assets/fonts/KarbonWeb-Semibold.svg#Karbon") format("svg")
+    src: url("../assets/fonts/KarbonWeb-Medium.eot?") format("eot"), url("../assets/fonts/KarbonWeb-Medium.woff2") format("woff2"), url("../assets/fonts/KarbonWeb-Medium.woff") format("woff"), url("../assets/fonts/KarbonWeb-Medium.ttf") format("truetype"), url("../assets/fonts/KarbonWeb-Medium.svg#Karbon") format("svg")
 }
